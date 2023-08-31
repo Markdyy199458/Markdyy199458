@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Markdyy199458
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning EtherCAT master
-- 💞️ I’m looking to collaborate on realtime control system
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently learning AUTOSAR
+- 💞️ 
 - 📫 How to reach me 799154472@qq.com
 
 <!---
